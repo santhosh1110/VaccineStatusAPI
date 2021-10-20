@@ -1,0 +1,55 @@
+[
+    {
+        "CompanyCode": "SEQAT",
+        "CompanyName": "Sequoia Applied Technologies",
+        "Employees": [
+            {
+                "EmpCode": "SAT0015",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":1
+            },
+             {
+                "EmpCode": "SAT1015",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":2
+            },
+             {
+                "EmpCode": "SAT0007",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":2
+            },
+             {
+                "EmpCode": "SAT1045",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":2
+            }
+        ]
+    },
+     {
+        "CompanyCode": "WIPRO",
+        "CompanyName": "Wipro Technologies",
+        "Employees": [
+            {
+                "EmpCode": "IN0015",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":1
+            },
+             {
+                "EmpCode": "IN0085",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":0
+            },
+             {
+                "EmpCode": "IN0063",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":1
+            },
+             {
+                "EmpCode": "IN0045",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":0
+            }
+        ]
+    }
+   
+]

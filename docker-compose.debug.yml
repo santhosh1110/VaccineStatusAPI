@@ -1,0 +1,12 @@
+version: '3.4'
+services:
+  webapp:
+    image: vaccineapi:latest
+    ports:
+      - 5000
+    environment:
+      - ASPNETCORE_ENVIRONMENT=development
+      - ASPNETCORE_URLS=http://+:5000
+    volumes:
+      - ~/sequoia/algorithmsCharp/VaccineAPI/Data:/app/Data:ro
+      - ~/sequoia/algorithmsCharp/VaccineAPI/Logs:/app/Logs:rw

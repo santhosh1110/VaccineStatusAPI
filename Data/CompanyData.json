@@ -1,0 +1,18 @@
+[
+    {
+        "CompanyCode": "TCS",
+        "CompanyName": "Tata Consultancy Services",
+        "Employees": [
+            {
+                "EmpCode": "TCS00014",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":0
+            },
+            {
+                "EmpCode": "TCS00102",
+                "AadharNumber": "803366558082",
+                "VaccineStatus":2
+            }
+        ]
+    }
+]
